@@ -1,2 +1,13 @@
 # Amazon-Sales-Analytics-Final-Project
-End to end Amazon Sales Analytics Project including data preprocessing, validation summary, KPI analysis and interactive Dashboard
+This project analyzes a 100,000-record Amazon sales dataset using Microsoft Excel and AI-assisted tools to generate business insights and KPI-driven dashboards.
+
+Developed as part of the AICW Fellowship (2026), the project focuses on structured data cleaning, feature engineering (Revenue, Profit, AOV, Shipping Impact), and interactive dashboard creation for sales performance evaluation.
+
+The repository includes:
+
+Final project report (PDF)
+Excel dashboard file
+Supporting visuals and documentation
+For complete methodology and findings, please refer to the full project report included in this repository.
+
+The Live Demonstration of the Project can be viewed using the Link Below https://drive.google.com/file/d/14s4POWjxs-btjc1FQbXxKUto1RH57PEB/view?usp=drivesdk
